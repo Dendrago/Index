@@ -1,13 +1,20 @@
+body {
+	background-color: gray;
+	font-family: 'Arial'
+}
+
 header, main {
 	border: solid black thin;
 	width: 750px;
 	padding: 15px;
 	margin: 15px;
+	background-color: lightgray;
 }
 
 a, h1, h2 {
 	border: solid black thin;
 	padding: 5px;
+	background-color: white;
 }
 
 .profile-picture {
