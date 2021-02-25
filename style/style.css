@@ -1,29 +1,29 @@
 header, main {
-  border: solid black thin;
-  width: 750px;
-  padding: 15px;
-  margin: 15px;
+	border: solid black thin;
+	width: 750px;
+	padding: 15px;
+	margin: 15px;
 }
 
 a, h1, h2 {
-  border: solid black thin;
-  padding: 5px;
+	border: solid black thin;
+	padding: 5px;
 }
 
 .profile-picture {
-  width: 200px;
-  height: 200px;
+	width: 200px;
+	height: 200px;
 }
 
 .logo {
-  width: 50px;
-  height: 50px;
+	width: 50px;
+	height: 50px;
 }
 
 .pull-right {
-  float: right;
+	float: right;
 }
 
 .pull-center {
-  text-align: center;
+	text-align: center;
 }
