@@ -27,3 +27,7 @@ a, h1, h2 {
 .pull-center {
 	text-align: center;
 }
+
+.vertical-center {
+	line-height: 50px;
+}
