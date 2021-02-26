@@ -1,13 +1,13 @@
 body {
 	background-color: gray;
-	font-family: 'Arial'
+	font-family: 'Arial';
 }
 
 header, main {
 	border: solid black thin;
-	width: 750px;
+	max-width: 750px;
 	padding: 15px;
-	margin: 15px;
+	margin: 15px auto;
 	background-color: lightgray;
 }
 
